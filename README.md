@@ -32,7 +32,7 @@ cd le-gardien
 docker compose up -d --build
 ```
 ## 🌐 Déploiement
-Application déployée via Cloudflare Zero Trust : 👉 https://gardien.apierrr.com
+Application déployée via Cloudflare Zero Trust : 👉 https://streamlit.apierrr.com
 
 ## 👥 Équipe
 Apierrr - Lead Developer
