@@ -31,11 +31,11 @@ git clone https://github.com/apierrr/le-gardien.git
 cd le-gardien
 docker compose up -d --build
 ```
-##🌐 Déploiement
+## 🌐 Déploiement
 Application déployée via Cloudflare Zero Trust : 👉 https://gardien.apierrr.com
 
-##👥 Équipe
+## 👥 Équipe
 Apierrr - Lead Developer
 
-##📝 Notes
+## 📝 Notes
 Architecture découplée pour la performance : un service "Logger" collecte les métriques en arrière-plan pendant que le service "Web" affiche l'interface sans latence.
